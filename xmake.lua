@@ -1,5 +1,7 @@
 includes("LRCarry", "Sandbox")
 
+add_includedirs("deps/spdlog/include")
+
 add_includedirs("LRCarry/src")
 add_includedirs("LRCarry")
 

@@ -1,6 +1,6 @@
 #include "Application.h"
-#include <stdio.h>
-#include "Core.h"
+// #include <stdio.h>
+// #include "Core.h"
 
 namespace LRCarry
 {
@@ -18,7 +18,7 @@ namespace LRCarry
     {
         while (true)
         {
-            printf(DEBUG_LOG "\n");
+            // printf(DEBUG_LOG "\n");
         }
         
     }
