@@ -1,5 +1,7 @@
 #pragma once
-#include "Core.h"
+
+#include "Core/Events/Event.h"
+#include "Core/Events/ApplicationEvent.h"
 
 namespace LRCarry
 {

@@ -1,5 +1,7 @@
 includes("LRCarry", "Sandbox")
 
+set_languages("c99", "c++11")
+
 add_includedirs("deps/spdlog/include")
 
 add_includedirs("LRCarry/src")

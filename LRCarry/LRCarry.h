@@ -2,9 +2,9 @@
 
 // For use by LRCarry applications
 
-#include "src/Application.h"
-#include "src/Log.h"
+#include "Core/Application/Application.h"
+#include "Core/Based/Log.h"
 
 // --------------------- Entry point ---------------------
-#include "src/EntryPoint.h"
+#include "Core/Application/EntryPoint.h"
 // -------------------------------------------------------
